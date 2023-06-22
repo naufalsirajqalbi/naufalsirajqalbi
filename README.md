@@ -1,2 +1,1 @@
-Halo Gamelab Indonesia,
-Ini adalah Repository pertamaku dibuat
+Repository baru dari pc lokal
